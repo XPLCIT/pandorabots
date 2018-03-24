@@ -1,0 +1,36 @@
+---
+name: Pandorabots
+description: Pandorabots is a web service for building and deploying chatbots. The
+  Pandorabots Playground is a free, integrated development environment for building
+  chatbots loaded with features and tools. Learn the basics of chatbot development
+  in minutes, or hone your skills with our Tutorial.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pandora-bots-logo.png
+x-kinRank: "8"
+x-alexaRank: ""
+tags:
+- Stack Network
+- Bots
+created: "2018-03-24"
+modified: "2018-03-24"
+url: https://raw.githubusercontent.com/api-stack-providers/pandorabots/master/_listings/pandorabots/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: http://blog.pandorabots.com/
+- type: x-blog-rss
+  url: http://blog.pandorabots.com/rss/
+- type: x-developer
+  url: https://developer.pandorabots.com/
+- type: x-github
+  url: https://www.github.com/pandorabots
+- type: x-twitter
+  url: https://www.twitter.com/pandorabots
+- type: x-website
+  url: http://www.pandorabots.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
